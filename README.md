@@ -1,4 +1,4 @@
-lea  # Refactoring with Modules
+learnlealea  # Refactoring with Modules
 
 ## Objectives
 
